@@ -9,18 +9,6 @@ This project uses Convolutional Neural Networks (CNNs) with data augmentation to
 **Kaggle Dataset Link:**  
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=Testing
 
-dataset/
-├── Training/
-│ ├── yes/
-│ └── no/
-└── Testing/
-├── yes/
-└── no/
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 🎯 Objectives
