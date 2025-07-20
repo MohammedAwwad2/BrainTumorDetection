@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=
 
 ## 🎯 Objectives
 
-- Binary classification: Tumor vs. No Tumor
+
 - Apply data augmentation for better generalization
 - Evaluate model using accuracy, precision, recall, F1-score, and confusion matrix
 
